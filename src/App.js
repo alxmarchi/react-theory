@@ -13,6 +13,7 @@ class App extends Component {
         <h1>Hello world!</h1>
 
         <Car />
+        <Car />
       </div>
     );
   }
